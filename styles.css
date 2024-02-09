@@ -9,7 +9,7 @@
 }
 
  p:nth-child(2){
-	color:black;
+	/* Standard text color */
 }
 
  p:last-child{
